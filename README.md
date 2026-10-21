@@ -32,7 +32,7 @@
 <tr>
 <td width="40%" align="center" valign="top">
 
-<img src="./ashok-profile.jpg" width="100%" alt="Ashok Inamupudi"/>
+<img src="./IMG-20261021-WA0012.Jpg" width="100%" alt="Ashok Inamupudi - Software Developer"/>
 
 ### ✨ ASHOK INAMUPUDI
 
